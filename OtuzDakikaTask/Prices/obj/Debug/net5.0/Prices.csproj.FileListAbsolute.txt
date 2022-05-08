@@ -1,0 +1,12 @@
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\bin\Debug\net5.0\Prices.deps.json
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\bin\Debug\net5.0\Prices.dll
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\bin\Debug\net5.0\Prices.pdb
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.csproj.AssemblyReference.cache
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.AssemblyInfoInputs.cache
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.AssemblyInfo.cs
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.dll
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\refint\Prices.dll
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.pdb
+C:\Users\baran\source\repos\OtuzDakikaTask\Prices\obj\Debug\net5.0\ref\Prices.dll
