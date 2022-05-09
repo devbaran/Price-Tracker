@@ -6,8 +6,8 @@ Bu uygulama e-ticaret sitelerindeki ürünlerin güncel fiyatlarını düzenli b
 
 Uygulama şu şekilde çalışır;
 
-İlk olarak istenen platform seçilir(amazon,trendyol). Ardından bu platformdaki seçilen ürünün linki girilir. Eposta ve düşmesi beklenen fiyat girilir gönderilir. 
-Ardından (başarılı olması durumunda/ validasyonlardan geçtikten sonra) bu işlemin başarılı olduğuna dair bir sayfa görecektir.
+İlk olarak istenen platform seçilir(amazon,trendyol). Ardından bu platformdaki seçilen ürünün linki girilir. Son olarak eposta ve düşmesi beklenen fiyat girilir. 
+Form gönderildikten sonra kullanıcı (başarılı olması durumunda/ validasyonlardan geçtikten sonra) bu işlemin başarılı olduğuna dair bir sayfa görecektir.
 Ürün istenen fiyata düştüğü anda kullanıcı otomatik olarak e-posta yoluyla bilgilendirilecektir.
 
 
