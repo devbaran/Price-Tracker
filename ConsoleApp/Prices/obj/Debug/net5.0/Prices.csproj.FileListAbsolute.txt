@@ -22,3 +22,15 @@ C:\Users\baran\Desktop\PriceCheck\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.
 C:\Users\baran\Desktop\PriceCheck\OtuzDakikaTask\Prices\obj\Debug\net5.0\refint\Prices.dll
 C:\Users\baran\Desktop\PriceCheck\OtuzDakikaTask\Prices\obj\Debug\net5.0\Prices.pdb
 C:\Users\baran\Desktop\PriceCheck\OtuzDakikaTask\Prices\obj\Debug\net5.0\ref\Prices.dll
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\bin\Debug\net5.0\Prices.deps.json
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\bin\Debug\net5.0\Prices.dll
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\bin\Debug\net5.0\Prices.pdb
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.AssemblyInfo.cs
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.dll
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\refint\Prices.dll
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\Prices.pdb
+C:\Users\baran\Desktop\PriceCheck\ConsoleApp\Prices\obj\Debug\net5.0\ref\Prices.dll
