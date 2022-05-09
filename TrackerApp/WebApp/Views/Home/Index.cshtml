@@ -1,0 +1,92 @@
+﻿@model WebApp.ViewModels.ProductTrackerViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ürün Takip - Hızlıca fiyatları takip edebileceğiniz adres!</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/App/dist/vendor/bootstrap-4.5.3/css/bootstrap.min.css" type="text/css">
+    <!-- Material design icons -->
+    <link rel="stylesheet" href="~/App/dist/icons/material-design-icons/css/mdi.min.css" type="text/css">
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+    <!-- Latform styles -->
+    <link rel="stylesheet" href="~/App/dist/css/latform-style-1.min.css" type="text/css">
+</head>
+<body>
+    <div class="form-wrapper">
+        <div class="container">
+            <div class="card">
+                <div class="card-body">
+                    <div class="logo">
+                        <img src="~/App/dist/images/output-onlinepngtools.png" alt="logo" style="max-width:40%; max-height:40%">
+                    </div>
+                    <div class="text-center my-5">
+                        <h3 class="font-weight-bold mb-3">Fiyat Takip</h3>
+                        <p class="text-muted">Mağazaların fiyatlarını ücretsiz takip edin.</p>
+                    </div>
+                    <form method="post">
+                        <div class="form-group">
+                            <div class="from-icon-wrapper">
+                                <i class="form-icon-left mdi mdi-shopping"></i>
+                                <label>Alışveriş Platformu</label>
+                                <select asp-for="MarketPlace" class="form-control">
+                                    <option value="1">Trendyol</option>
+                                    <option value="3">Amazon</option>
+
+                                </select>
+                            </div>
+                            <small class="form-text text-muted">Geçerli bir e-ticaret platformu seçin.</small>
+                            <span asp-validation-for="MarketPlace" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+
+                            <label for="email">Ürün Linki</label>
+                            <div class="form-icon-wrapper">
+                                <input type="text" class="form-control" asp-for="Url" placeholder="https://www.site.com.tr/urun_asd-123" autofocus>
+                                <i class="form-icon-left mdi mdi-web"></i>
+
+                            </div>
+                            <small class="form-text text-muted">Ürünün linkini kopyalayıp doğrudan buraya yapıştırın.</small>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="email">E-posta Adresi</label>
+                            <div class="form-icon-wrapper">
+                                <input type="email" class="form-control" asp-for="Email" placeholder="Enter email" required>
+                                <i class="form-icon-left mdi mdi-email"></i>
+
+                            </div>
+                            <small class="form-text text-muted">Geçerli bir eposta adresi girin.</small>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Beklenen Fiyat</label>
+                            <div class="form-icon-wrapper">
+                                <input type="number" asp-for="DesiredPrice" class="form-control" placeholder="75">
+                                <i class="form-icon-left mdi mdi-cash"></i>
+
+                            </div>
+                            <small class="form-text text-muted">Yazılan fiyatın altına düşünce eposta alacaksınız.</small>
+
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block">Alarm Kur!</button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Jquery -->
+    <script src="~/App/dist/vendor/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="~/App/dist/vendor/bootstrap-4.5.3/js/bootstrap.min.js"></script>
+    <!-- Latform scripts -->
+    <script src="~/App/dist/js/latform.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\bin\Debug\net5.0\PriceTest.deps.json
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\bin\Debug\net5.0\PriceTest.dll
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\bin\Debug\net5.0\PriceTest.pdb
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.AssemblyInfo.cs
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.dll
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\refint\PriceTest.dll
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\PriceTest.pdb
+C:\Users\baran\Desktop\PriceCheck\Sale\PriceTest\obj\Debug\net5.0\ref\PriceTest.dll
